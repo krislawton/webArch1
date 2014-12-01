@@ -10,4 +10,9 @@ h1, h3 {
 	color: purple;
 	font-family: "AR DESTINE";
 }
+table {
+	background: grey;
+	color: white;
+	font-family: 'Times New Roman';
+}
 
