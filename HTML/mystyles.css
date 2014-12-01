@@ -1,11 +1,13 @@
 body {
-	background-color: pink;
+	background-color: white;
 }
 p {
 	color: green;
 	font-family: arial;
+	font-size: 10pt;
 }
 h1, h3 {
 	color: purple;
 	font-family: "AR DESTINE";
 }
+
